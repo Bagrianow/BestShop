@@ -101,12 +101,16 @@ html {
 .btn--large {
     padding: 22px 155px;
 }
+.container {
+    margin-top: 100px;
+}
+
 .statistic__title {
     font-family: var(--font-raleway);
     font-size: 2.25rem;
     text-align: center;
 }
-.statistics {}
+
 .statistics__container {
     max-width: 800px;
     margin: 100px auto 120px;
@@ -136,7 +140,7 @@ html {
     position: absolute;
 }
 
-.statistic__single:nth-child(1) .statistics__circle {
+.statistics__single:nth-child(1) .statistics__circle {
     background-color: var(--forth-red);
 }
 .statistics__single:nth-child(1) .statistics__img {
@@ -150,7 +154,7 @@ html {
     top: 14px;
     left: 47%;
 }
-.statistic__single:nth-child(3) .statistics__circle {
+.statistics__single:nth-child(3) .statistics__circle {
     background-color: var(--fifth-green)
 }
 .statistics__single:nth-child(3) .statistics__img {
@@ -158,13 +162,16 @@ html {
     left: 50%;
 }
 .statistics__number {
+    font-family: var(--font-raleway);
     font-size: 1.25rem;
     font-weight: 800;
     letter-spacing: .1875rem;
     margin-top: 13px;
 }
 .statistics__description {
-
+    color: var(--third-grey);
+    margin-top: 19px;
+    text-align: center;
 }
 
 
