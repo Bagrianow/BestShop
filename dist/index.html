@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <link rel="stylesheet" href="/index.6dab377c.css">
+    <title>Bestshop</title>
+    <link rel="stylesheet" href="/index.a8bb5a1d.css">
     <link rel="stylesheet" href="/index.b2625c6b.css">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,29 +15,39 @@
 <body>
 
 <header class="header">
-    <div class="header__wrapper ">
-        <a href="#" class="logo__text">BestShop</a>
-    <nav class="menu">
-        <a href="" class="menu__item">why us</a>
-        <a href="" class="menu__item">benefits</a>
-        <a href="" class="menu__item">prices</a>
-        <a href="" class="menu__item">contact</a>
+  <div class="header__container container">
+    <a href="#" class="logo">BestShop</a>
+    <nav>
+      <input type="checkbox" class="menu__btn" id="menu__btn">
+      <label for="menu__btn" class="menu__toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+      <ul class="header__nav">
+        <li class="nav__element"><a href="#why-us" class="nav__link">Why us</a></li>
+        <li class="nav__element"><a href="#benefits" class="nav__link">Benefits</a></li>
+        <li class="nav__element"><a href="#prices" class="nav__link">Prices</a></li>
+        <li class="nav__element"><a href="#contact" class="nav__link">Contact</a></li>
+      </ul>
     </nav>
     </div>
 </header>
 <main>
-    <section class="main__wrapper">
-        <div class="main__content">
-            <h1 class="text__hdl">Sell More!</h1>
-            <p class="text__lead">Open shop on our platform and increase your sales</p>
+    <section class="opening">
+        <div class="opening__content">
+            <h1 class="opening__header">Sell More!</h1>
+            <p class="opening__heading">Open shop on our platform and increase your sales</p>
             <a href="" class="btn btn--primary btn--large">Open your shop</a>
         </div>
         <img src="/Background.93611d6d.png" alt="" class="opening__image">
     </section>
 
+
 <section class="statistics">
     <div class="container">
-        <h2 class="statistic__title">The most popular sales platform in country</h2>
+        <h2 class="statistics__title">The most popular sales platform in country</h2>
+
         <div class="statistics__container">
             <div class="statistics__single">
                 <div class="statistics__circle">
@@ -46,6 +56,7 @@
                 <div class="statistics__number">100000+</div>
                 <div class="statistics__description">daily entries</div>
             </div>
+
             <div class="statistics__single">
                 <div class="statistics__circle">
                     <img src="/Eye.44899c61.svg" alt="eye" class="statistics__img">
@@ -63,6 +74,9 @@
         </div>
     </div>
 </section>
+
+
+
 <section class="benefits">
     <div class="benefits__container container">
 
@@ -149,6 +163,9 @@
         </div>
     </div>
 </section>
+
+
+
 <section class="contact container" id="contact">
 
     <div class="contact__column">
@@ -161,6 +178,7 @@
                 <img src="/Mail%20Icon.e8ef8308.svg" alt="mail">
                   mailto:info@bestshop.xyz
             </a>
+
             <a href="tel:123456789" class="details__item">
                 <img src="/Phone%20Icon.40470403.svg" alt="phone">
             123 456 789
