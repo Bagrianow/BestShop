@@ -1,4 +1,4 @@
-5188
+5189
 46/home/adam/projects/bestshop/package-lock.json1678440272198948117 0
 75/home/adam/projects/bestshop/node_modules/postcss-value-parser/lib/parse.js1678438328645288459 0
 75/home/adam/projects/bestshop/node_modules/postcss-value-parser/lib/index.js1678438328633288440 0
@@ -68,6 +68,7 @@
 81/home/adam/projects/bestshop/node_modules/css-tree/lib/syntax/node/Parentheses.js1678438329005289006 0
 75/home/adam/projects/bestshop/node_modules/css-tree/lib/syntax/node/index.js1678438328977288964 0
 81/home/adam/projects/bestshop/node_modules/css-tree/lib/syntax/node/Declaration.js1678438328933288897 0
+80/home/adam/projects/bestshop/node_modules/css-tree/lib/syntax/node/Identifier.js1678438328961288939 0
 77/home/adam/projects/bestshop/node_modules/@parcel/reporter-dev-server/LICENSE1678438328585288367 0
 83/home/adam/projects/bestshop/node_modules/@parcel/reporter-dev-server/src/templates1678438328657288477 1
 83/home/adam/projects/bestshop/node_modules/@parcel/reporter-dev-server/src/Server.js1678438328705288549 0
@@ -98,7 +99,6 @@
 91/home/adam/projects/bestshop/node_modules/@parcel/transformer-babel/src/BabelTransformer.js1678438328705288549 0
 62/home/adam/projects/bestshop/node_modules/svgo/lib/svgo/coa.js1678438328829288738 0
 71/home/adam/projects/bestshop/node_modules/@parcel/fs/lib/browser.js.map1678438328837288750 0
-82/home/adam/projects/bestshop/node_modules/@parcel/reporter-dev-server/package.json1678438328897288842 0
 86/home/adam/projects/bestshop/node_modules/@parcel/source-map/parcel_sourcemap_node/src1678438329045289068 1
 87/home/adam/projects/bestshop/node_modules/@parcel/optimizer-htmlnano/lib/svgMappings.js1678438328681288514 0
 105/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/fs-search/LICENSE1678438375357385765 0
@@ -321,8 +321,6 @@
 92/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/input-file-directory.js1678438329089289136 0
 64/home/adam/projects/bestshop/node_modules/json5/lib/unicode.d.ts1678438328857288781 0
 129/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/package-manager/src/promiseFromProcess.js1678438375417385922 0
-59/home/adam/projects/bestshop/node_modules/@parcel/types/lib1678438328737288599 1
-85/home/adam/projects/bestshop/node_modules/@jridgewell/set-array/dist/set-array.umd.js1678438328629288434 0
 81/home/adam/projects/bestshop/node_modules/@parcel/transformer-babel/src/babel7.js1678438328657288477 0
 166/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines/index.js1678438375437385976 0
 105/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/types/build-ts.js1678438375361385776 0
@@ -715,7 +713,7 @@
 134/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest_remap.c1678438375433385964 0
 130/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/intro.doc1678438375449386006 0
 75/home/adam/projects/bestshop/node_modules/@parcel/packager-css/package.json1678438328689288526 0
-42/home/adam/projects/bestshop/css/style.css1678439921173633465 0
+42/home/adam/projects/bestshop/css/style.css1678440547698699766 0
 110/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/lib/serializer.js1678438375453386018 0
 128/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/tooltag1678438375401385881 0
 80/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/temporal.js1678438329121289185 0
@@ -1055,12 +1053,10 @@
 96/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/src/txn.cpp1678438375445385997 0
 80/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/bloburls.js1678438328933288897 0
 68/home/adam/projects/bestshop/node_modules/@parcel/core/lib/Parcel.js1678438329001289000 0
+67/home/adam/projects/bestshop/node_modules/@parcel/core/lib/types.js1678438329041289062 0
+73/home/adam/projects/bestshop/node_modules/svgo/plugins/removeEmptyText.js1678438328913288866 0
+78/home/adam/projects/bestshop/node_modules/lightningcss-linux-x64-gnu/README.md1678438328637288447 0
 75/home/adam/projects/bestshop/node_modules/@parcel/runtime-react-refresh/lib1678438328629288434 1
-107/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/package-manager/src1678438375417385922 1
-69/home/adam/projects/bestshop/node_modules/@parcel/transformer-css/src1678438328649288464 1
-87/home/adam/projects/bestshop/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc1678438328833288745 0
-61/home/adam/projects/bestshop/node_modules/@lezer/lr/README.md1678438328733288593 0
-73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/TK.js1678438329125289192 0
 92/home/adam/projects/bestshop/node_modules/@parcel/runtime-js/lib/helpers/node/wasm-loader.js1678438328885288824 0
 89/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/util1678438375457386027 1
 131/home/adam/projects/bestshop/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/package-module-fallback/package.json1678438329041289062 0
@@ -1160,7 +1156,6 @@
 81/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/es6-class.js1678438329073289112 0
 86/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/css-dir-pseudo.js1678438329009289013 0
 72/home/adam/projects/bestshop/node_modules/@parcel/core/lib/assetUtils.js1678438328897288842 0
-78/home/adam/projects/bestshop/node_modules/msgpackr/dist/unpack-no-eval.cjs.map1678438328957288933 0
 86/home/adam/projects/bestshop/node_modules/@parcel/transformer-html/src/dependencies.js1678438328669288495 0
 116/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/diagnostic/src/diagnostic.js1678438375365385786 0
 131/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/workers/test/integration/workerfarm/echo.js1678438375377385818 0
@@ -1441,13 +1436,8 @@
 93/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/index.js1678438375457386027 0
 96/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_class_static_private_field_update.js1678438328953288927 0
 91/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/css-text-align-last.js1678438329045289068 0
-81/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_async_to_generator.js1678438328933288897 0
-137/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest3.c1678438375433385964 0
-90/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb1678438329053289080 1
-82/home/adam/projects/bestshop/node_modules/@parcel/runtime-browser-hmr/package.json1678438328753288623 0
-77/home/adam/projects/bestshop/node_modules/@parcel/runtime-js/src/JSRuntime.js1678438328881288817 0
-89/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1678438329029289043 0
-80/home/adam/projects/bestshop/node_modules/@parcel/runtime-js/lib/helpers/browser1678438328885288824 1
+76/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_object_spread.js1678438328981288969 0
+85/home/adam/projects/bestshop/node_modules/@parcel/optimizer-svgo/src/SVGOOptimizer.js1678438328657288477 0
 91/home/adam/projects/bestshop/node_modules/@parcel/source-map/parcel_sourcemap_node/build.rs1678438329045289068 0
 112/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/src/public/Asset.js1678438375405385891 0
 66/home/adam/projects/bestshop/node_modules/to-regex-range/README.md1678438328653288471 0
@@ -1614,10 +1604,6 @@
 66/home/adam/projects/bestshop/node_modules/@swc/helpers/lib/_jsx.js1678438328885288824 0
 53/home/adam/projects/bestshop/css/images/Mail Icon.svg1677851051050065153 0
 108/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/workers/lib/types.js1678438375405385891 0
-85/home/adam/projects/bestshop/node_modules/@babel/highlight/node_modules/color-convert1678438328689288526 1
-60/home/adam/projects/bestshop/node_modules/@parcel/diagnostic1678438328697288538 1
-83/home/adam/projects/bestshop/node_modules/@parcel/transformer-posthtml/package.json1678438328689288526 0
-63/home/adam/projects/bestshop/node_modules/ordered-binary/assets1678438328729288586 1
 70/home/adam/projects/bestshop/node_modules/@parcel/logger/src/Logger.js1678438328657288477 0
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/GR.js1678438329081289124 0
 83/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/font-smooth.js1678438329077289117 0
@@ -1675,6 +1661,7 @@
 61/home/adam/projects/bestshop/node_modules/lmdb/src/cursor.cpp1678438329001289000 0
 73/home/adam/projects/bestshop/node_modules/dom-serializer/lib/esm/index.js1678438328685288519 0
 94/home/adam/projects/bestshop/node_modules/@swc/helpers/lib/_object_without_properties_loose.js1678438328893288835 0
+78/home/adam/projects/bestshop/node_modules/msgpackr/dist/unpack-no-eval.cjs.map1678438328957288933 0
 122/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/utils/test/input/config/empty.toml1678438375461386039 0
 62/home/adam/projects/bestshop/node_modules/lmdb/src/lmdb-js.cpp1678438329005289006 0
 86/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_tagged_template_literal.js1678438328989288981 0
@@ -1684,8 +1671,6 @@
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/CN.js1678438328973288957 0
 82/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb1678438329053289080 1
 73/home/adam/projects/bestshop/node_modules/@parcel/package-manager/LICENSE1678438328585288367 0
-92/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/font-variant-numeric.js1678438329077289117 0
-131/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.11678438375401385881 0
 76/home/adam/projects/bestshop/node_modules/@parcel/core/lib/ReporterRunner.js1678438329021289030 0
 127/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/package-manager/src/NodeResolverSync.js1678438375413385912 0
 87/home/adam/projects/bestshop/node_modules/@babel/highlight/node_modules/chalk/readme.md1678438328669288495 0
@@ -1696,6 +1681,19 @@
 55/home/adam/projects/bestshop/dist/Facebook.50a3d644.svg1678439316545736202 0
 69/home/adam/projects/bestshop/node_modules/domutils/lib/traversal.d.ts1678438328841288757 0
 59/home/adam/projects/bestshop/node_modules/lmdb/package.json1678438329041289062 0
+81/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_async_to_generator.js1678438328933288897 0
+137/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/mtest3.c1678438375433385964 0
+90/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb1678438329053289080 1
+82/home/adam/projects/bestshop/node_modules/@parcel/runtime-browser-hmr/package.json1678438328753288623 0
+77/home/adam/projects/bestshop/node_modules/@parcel/runtime-js/src/JSRuntime.js1678438328881288817 0
+131/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_copy.11678438375401385881 0
+92/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/font-variant-numeric.js1678438329077289117 0
+85/home/adam/projects/bestshop/node_modules/@babel/highlight/node_modules/color-convert1678438328689288526 1
+60/home/adam/projects/bestshop/node_modules/@parcel/diagnostic1678438328697288538 1
+83/home/adam/projects/bestshop/node_modules/@parcel/transformer-posthtml/package.json1678438328689288526 0
+63/home/adam/projects/bestshop/node_modules/ordered-binary/assets1678438328729288586 1
+89/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/midl.h1678438329029289043 0
+80/home/adam/projects/bestshop/node_modules/@parcel/runtime-js/lib/helpers/browser1678438328885288824 1
 52/home/adam/projects/bestshop/node_modules/semver/bin1678438328629288434 1
 88/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_class_private_method_init.js1678438328949288921 0
 98/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_class_static_private_field_spec_set.js1678438328953288927 0
@@ -1728,6 +1726,12 @@
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/CU.js1678438329057289086 0
 122/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/src/requests/ConfigRequest.js1678438375421385933 0
 105/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/sample-bdb.txt1678438329049289074 0
+42/home/adam/projects/bestshop/.idea/vcs.xml1677833210558643904 0
+86/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/resizeobserver.js1678438329113289173 0
+65/home/adam/projects/bestshop/node_modules/source-map/package.json1678438328577288355 0
+127/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/src/requests/BundleGraphRequest.js1678438375421385933 0
+78/home/adam/projects/bestshop/node_modules/cosmiconfig/dist/ExplorerBase.js.map1678438328757288629 0
+72/home/adam/projects/bestshop/node_modules/msgpackr/dist/index.min.js.map1678438328925288885 0
 77/home/adam/projects/bestshop/node_modules/@swc/helpers/lib/_inherits_loose.js1678438328873288805 0
 84/home/adam/projects/bestshop/node_modules/@parcel/core/test/fixtures/invalid-targets1678438329061289093 1
 84/home/adam/projects/bestshop/node_modules/@parcel/core/src/requests/ConfigRequest.js1678438328941288909 0
@@ -1749,12 +1753,6 @@
 89/home/adam/projects/bestshop/node_modules/htmlnano/lib/modules/sortAttributesWithLists.js1678438328869288799 0
 116/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/lib/loadParcelPlugin.js1678438375441385985 0
 89/home/adam/projects/bestshop/node_modules/@parcel/core/test/fixtures/config-node-pipeline1678438328737288599 1
-42/home/adam/projects/bestshop/.idea/vcs.xml1677833210558643904 0
-86/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/resizeobserver.js1678438329113289173 0
-65/home/adam/projects/bestshop/node_modules/source-map/package.json1678438328577288355 0
-127/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/src/requests/BundleGraphRequest.js1678438375421385933 0
-78/home/adam/projects/bestshop/node_modules/cosmiconfig/dist/ExplorerBase.js.map1678438328757288629 0
-72/home/adam/projects/bestshop/node_modules/msgpackr/dist/index.min.js.map1678438328925288885 0
 87/home/adam/projects/bestshop/node_modules/@parcel/core/src/public/MutableBundleGraph.js1678438328993288988 0
 86/home/adam/projects/bestshop/node_modules/@swc/helpers/lib/_assert_this_initialized.js1678438328677288507 0
 90/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_check_private_redeclaration.js1678438328937288902 0
@@ -1769,7 +1767,7 @@
 93/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_dump.c1678438328913288866 0
 83/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_class_name_tdz_error.js1678438328945288915 0
 52/home/adam/projects/bestshop/node_modules/parcel/src1678438328717288568 1
-32/home/adam/projects/bestshop/css1678439921209633954 1
+32/home/adam/projects/bestshop/css1678440547746699856 1
 93/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_load.c1678438328917288872 0
 72/home/adam/projects/bestshop/node_modules/@parcel/watcher/src/Watcher.cc1678438328809288708 0
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/BD.js1678438328917288872 0
@@ -1781,6 +1779,8 @@
 124/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/workers/src/threads/ThreadsWorker.js1678438375405385891 0
 93/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mdb_drop.c1678438328909288860 0
 82/home/adam/projects/bestshop/node_modules/@parcel/source-map/parcel_sourcemap_wasm1678438328805288702 1
+84/home/adam/projects/bestshop/node_modules/@jridgewell/source-map/dist/source-map.mjs1678438328809288708 0
+129/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/crypto.c1678438375405385891 0
 90/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_initializer_define_property.js1678438328965288945 0
 99/home/adam/projects/bestshop/node_modules/htmlnano/docs/versioned_docs/version-2.0.0/050-modules.md1678438328969288952 0
 68/home/adam/projects/bestshop/node_modules/term-size/vendor/.DS_Store1678438328629288434 0
@@ -1818,8 +1818,6 @@
 98/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/plugin/src1678438375369385797 1
 71/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_inherits.js1678438328965288945 0
 84/home/adam/projects/bestshop/node_modules/posthtml-parser/dist/location-tracker.d.ts1678438328733288593 0
-72/home/adam/projects/bestshop/node_modules/@parcel/core/lib/loadDotEnv.js1678438328985288976 0
-57/home/adam/projects/bestshop/node_modules/lmdb/index.d.ts1678438329049289074 0
 58/home/adam/projects/bestshop/node_modules/dotenv/README.md1678438328665288489 0
 72/home/adam/projects/bestshop/node_modules/@parcel/optimizer-htmlnano/src1678438328689288526 1
 65/home/adam/projects/bestshop/node_modules/svgo/lib/stringifier.js1678438328941288909 0
@@ -1839,12 +1837,6 @@
 96/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/src1678438375465386049 1
 84/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/css3-cursors.js1678438329057289086 0
 71/home/adam/projects/bestshop/node_modules/@jridgewell/set-array/LICENSE1678438328577288355 0
-59/home/adam/projects/bestshop/node_modules/term-size/license1678438328657288477 0
-52/home/adam/projects/bestshop/dist/index.6dab377c.css1678439316545736202 0
-55/home/adam/projects/bestshop/css/elements/_buttons.scss1678439921133632923 0
-146/home/adam/projects/bestshop/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/package.json1678438329049289074 0
-80/home/adam/projects/bestshop/node_modules/source-map/lib/source-map-generator.js1678438328753288623 0
-51/home/adam/projects/bestshop/node_modules/acorn/bin1678438328577288355 1
 81/home/adam/projects/bestshop/node_modules/lmdb/node_modules/node-addon-api/napi.h1678438328833288745 0
 76/home/adam/projects/bestshop/node_modules/@parcel/core/lib/PackagerRunner.js1678438328997288994 0
 96/home/adam/projects/bestshop/node_modules/lmdb/node_modules/node-addon-api/tools/clang-format.js1678438328845288763 0
@@ -1853,10 +1845,6 @@
 106/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/cache/src/types.js1678438375373385807 0
 72/home/adam/projects/bestshop/node_modules/node-addon-api/tools/README.md1678438328869288799 0
 108/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/types/lib/index.d.ts1678438375369385797 0
-76/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_object_spread.js1678438328981288969 0
-85/home/adam/projects/bestshop/node_modules/@parcel/optimizer-svgo/src/SVGOOptimizer.js1678438328657288477 0
-129/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/crypto.c1678438375405385891 0
-84/home/adam/projects/bestshop/node_modules/@jridgewell/source-map/dist/source-map.mjs1678438328809288708 0
 57/home/adam/projects/bestshop/dist/Phone Icon.40470403.svg1678439316545736202 0
 92/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/chacha8.h1678438329013289018 0
 93/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_class_extract_field_descriptor.js1678438328945288915 0
@@ -1906,7 +1894,7 @@
 54/home/adam/projects/bestshop/css/settings/_global.scss1678439961118176482 0
 85/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/notifications.js1678438329105289161 0
 107/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/utils/src/config.js1678438375373385807 0
-41/home/adam/projects/bestshop/css/elements1678439921169633411 1
+41/home/adam/projects/bestshop/css/elements1678440547786699929 1
 84/home/adam/projects/bestshop/node_modules/@parcel/transformer-babel/lib/constants.js1678438328733288593 0
 65/home/adam/projects/bestshop/node_modules/@lezer/common/README.md1678438328733288593 0
 92/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_tagged_template_literal_loose.js1678438328989288981 0
@@ -1932,6 +1920,15 @@
 82/home/adam/projects/bestshop/node_modules/@parcel/transformer-postcss/package.json1678438328741288604 0
 91/home/adam/projects/bestshop/node_modules/htmlnano/lib/modules/removeRedundantAttributes.js1678438328857288781 0
 56/home/adam/projects/bestshop/node_modules/parcel/LICENSE1678438328585288367 0
+59/home/adam/projects/bestshop/node_modules/@parcel/types/lib1678438328737288599 1
+85/home/adam/projects/bestshop/node_modules/@jridgewell/set-array/dist/set-array.umd.js1678438328629288434 0
+69/home/adam/projects/bestshop/node_modules/@parcel/transformer-css/src1678438328649288464 1
+87/home/adam/projects/bestshop/node_modules/@parcel/watcher/src/windows/WindowsBackend.cc1678438328833288745 0
+61/home/adam/projects/bestshop/node_modules/@lezer/lr/README.md1678438328733288593 0
+73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/TK.js1678438329125289192 0
+107/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/package-manager/src1678438375417385922 1
+129/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest5.c1678438375437385976 0
+79/home/adam/projects/bestshop/node_modules/@parcel/transformer-json/package.json1678438328669288495 0
 53/home/adam/projects/bestshop/dist/Person.4d7d1bdd.svg1678439316553736301 0
 77/home/adam/projects/bestshop/node_modules/@parcel/optimizer-svgo/package.json1678438328669288495 0
 58/home/adam/projects/bestshop/node_modules/semver/range.bnf1678438328645288459 0
@@ -1948,6 +1945,14 @@
 96/home/adam/projects/bestshop/node_modules/lmdb/node_modules/node-addon-api/napi-inl.deprecated.h1678438328669288495 0
 59/home/adam/projects/bestshop/node_modules/readdirp/index.js1678438375357385765 0
 65/home/adam/projects/bestshop/node_modules/lines-and-columns/build1678438328653288471 1
+72/home/adam/projects/bestshop/node_modules/@parcel/core/lib/loadDotEnv.js1678438328985288976 0
+57/home/adam/projects/bestshop/node_modules/lmdb/index.d.ts1678438329049289074 0
+55/home/adam/projects/bestshop/css/elements/_buttons.scss1678439921133632923 0
+146/home/adam/projects/bestshop/node_modules/@parcel/node-resolver-core/test/fixture/node_modules/side-effects-package-redirect-down/foo/package.json1678438329049289074 0
+80/home/adam/projects/bestshop/node_modules/source-map/lib/source-map-generator.js1678438328753288623 0
+51/home/adam/projects/bestshop/node_modules/acorn/bin1678438328577288355 1
+59/home/adam/projects/bestshop/node_modules/term-size/license1678438328657288477 0
+52/home/adam/projects/bestshop/dist/index.6dab377c.css1678439316545736202 0
 72/home/adam/projects/bestshop/node_modules/csso/lib/replace/Percentage.js1678438328913288866 0
 64/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb1678438328677288507 1
 38/home/adam/projects/bestshop/css/fonts1677832952401534923 1
@@ -2128,7 +2133,7 @@
 49/home/adam/projects/bestshop/css/images/Close.svg1677851051050065153 0
 103/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/fs/package.json1678438375377385818 0
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/BG.js1678438328929288890 0
-48/home/adam/projects/bestshop/.idea/workspace.xml1678440103040114152 0
+48/home/adam/projects/bestshop/.idea/workspace.xml1678440554874713510 0
 68/home/adam/projects/bestshop/node_modules/@parcel/optimizer-svgo/src1678438328649288464 1
 107/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/workers/src/threads1678438375405385891 1
 157/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/test/fixtures/plugins/node_modules/parcel-transformer-no-engines1678438375477386081 1
@@ -2162,9 +2167,6 @@
 101/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lz4/lib/dll/example/fullbench-dll.vcxproj1678438329053289080 0
 97/home/adam/projects/bestshop/node_modules/lmdb/dependencies/lmdb-data-v1/libraries/liblmdb/midl.h1678438329029289043 0
 85/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/accelerometer.js1678438328693288531 0
-67/home/adam/projects/bestshop/node_modules/@parcel/core/lib/types.js1678438329041289062 0
-73/home/adam/projects/bestshop/node_modules/svgo/plugins/removeEmptyText.js1678438328913288866 0
-78/home/adam/projects/bestshop/node_modules/lightningcss-linux-x64-gnu/README.md1678438328637288447 0
 86/home/adam/projects/bestshop/node_modules/@swc/helpers/lib/_tagged_template_literal.js1678438328901288848 0
 98/home/adam/projects/bestshop/node_modules/abortcontroller-polyfill/src/abortcontroller-polyfill.js1678438328689288526 0
 58/home/adam/projects/bestshop/node_modules/parcel/README.md1678438328733288593 0
@@ -2652,7 +2654,7 @@
 73/home/adam/projects/bestshop/node_modules/htmlnano/lib/presets/ampSafe.js1678438328645288459 0
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/MZ.js1678438329101289154 0
 74/home/adam/projects/bestshop/node_modules/@swc/helpers/src/_ts_decorate.js1678438328993288988 0
-34/home/adam/projects/bestshop/.idea1678440103064113914 1
+34/home/adam/projects/bestshop/.idea1678440554910713581 1
 89/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/sharedarraybuffer.js1678438329113289173 0
 73/home/adam/projects/bestshop/node_modules/caniuse-lite/data/regions/TH.js1678438329125289192 0
 105/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/src/utils.js1678438375461386039 0
@@ -2875,6 +2877,7 @@
 76/home/adam/projects/bestshop/node_modules/@parcel/core/lib/InternalConfig.js1678438328985288976 0
 63/home/adam/projects/bestshop/node_modules/picomatch/lib/scan.js1678438328701288544 0
 71/home/adam/projects/bestshop/node_modules/@parcel/core/lib/constants.js1678438328941288909 0
+82/home/adam/projects/bestshop/node_modules/@parcel/reporter-dev-server/package.json1678438328897288842 0
 134/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/core/test/fixtures/targets-default-distdir-two1678438375477386081 1
 83/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/css-filters.js1678438329013289018 0
 95/home/adam/projects/bestshop/node_modules/@parcel/reporter-dev-server/lib/ServerReporter.js.map1678438328981288969 0
@@ -2984,8 +2987,6 @@
 66/home/adam/projects/bestshop/node_modules/@parcel/transformer-json1678438328657288477 1
 74/home/adam/projects/bestshop/node_modules/@parcel/transformer-json/LICENSE1678438328585288367 0
 79/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/ch-unit.js1678438328961288939 0
-129/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/lmdb/dependencies/lmdb/libraries/liblmdb/mtest5.c1678438375437385976 0
-79/home/adam/projects/bestshop/node_modules/@parcel/transformer-json/package.json1678438328669288495 0
 89/home/adam/projects/bestshop/node_modules/@parcel/transformer-json/lib/JSONTransformer.js1678438328637288447 0
 59/home/adam/projects/bestshop/node_modules/@parcel/cache/src1678438328741288604 1
 73/home/adam/projects/bestshop/node_modules/@parcel/core/test/utils.test.js1678438329045289068 0
@@ -4160,7 +4161,6 @@
 81/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/css-table.js1678438329045289068 0
 91/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/input-email-tel-url.js1678438329089289136 0
 91/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/hardwareconcurrency.js1678438329081289124 0
-80/home/adam/projects/bestshop/node_modules/css-tree/lib/syntax/node/Identifier.js1678438328961288939 0
 102/home/adam/projects/bestshop/node_modules/@parcel/transformer-sass/node_modules/@parcel/plugin/LICENSE1678438375365385786 0
 87/home/adam/projects/bestshop/node_modules/@parcel/bundler-default/lib/DefaultBundler.js1678438328649288464 0
 103/home/adam/projects/bestshop/node_modules/caniuse-lite/data/features/client-hints-dpr-width-viewport.js1678438328973288957 0
@@ -4972,6 +4972,7 @@
 71/home/adam/projects/bestshop/node_modules/@lmdb/lmdb-linux-x64/index.js1678438375353385755 0
 83/home/adam/projects/bestshop/node_modules/@lmdb/lmdb-linux-x64/node.abi83.musl.node1678438375449386006 0
 84/home/adam/projects/bestshop/node_modules/@lmdb/lmdb-linux-x64/node.abi102.musl.node1678438375417385922 0
+54/home/adam/projects/bestshop/css/elements/_header.scss1678440547746699856 0
 80/home/adam/projects/bestshop/node_modules/posthtml-parser/dist/chunk.T6SARJYH.js1678438328633288440 0
 75/home/adam/projects/bestshop/node_modules/@lmdb/lmdb-linux-x64/package.json1678438375357385765 0
 83/home/adam/projects/bestshop/node_modules/@lmdb/lmdb-linux-x64/node.napi.glibc.node1678438375465386049 0
